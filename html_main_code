@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MY COMPANY</title>
+    <link rel="stylesheet" href="web-sahifa.css">
+</head>
+<body>
+
+    <div id="header">
+        <div class="container">
+            <h1> <span id="logo">TUIT</span> VIDEO.HUB </h1>
+
+            <ul id="menyu">
+                <li>
+                    <a href="#" class="active">MAIN</a>
+                </li>
+                <li>
+        <!--            <a href="about.html">KEREMAS</a>
+                </li>
+        -->
+                <li>
+                    <a href="service.html">ABOUT</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+    <div id="banner">
+        <div class="container"> 
+            <h1>PMGC 2021 GRAND FINALS</h1>     <br>
+            <br>
+
+            <div id="youtube"> 
+                <a href="https://youtu.be/0oBbqgU7PCg " target="_blank"><h2>YOU TUBEda STRIMNI KO'RISH DAY-1</h2> </a>
+                <br>
+                <a href="https://youtu.be/LUd_CJTOjHQ" target="_blank"><h2>YOU TUBEda STRIMNI KO'RISH DAY-2</h2> </a>
+                <br>
+                <a href="https://youtu.be/L-o2jU5xX9A" target="_blank"><h2>YOU TUBEda STRIMNI KO'RISH DAY-3</h2> </a>
+                
+            </div>  
+             
+        </div>
+    </div>
+
+    <div id="subscribe">
+        <div class="container">
+            <div id="place">
+                <h2>TOP - 3 JAMOALAR : </h2>
+            </div>
+<!--
+            <div class="right">
+                <input type="email" placeholder="Emailni kiriting...">
+
+                <a href="#">  <button class="button"> A'ZO BO'LISH </button>
+                </a>
+            
+            </div>  -->
+        </div>
+    </div>
+
+
+    <div id="kurslar">
+        <div class="container">
+            <div class="turlari">
+                <div class="box">
+                    <a href="https://youtu.be/z24Zih8shGs">
+                        <img src="NV.png" alt="NOVA ESPORTS">
+                    <p> 
+                        <h1 class="name">NOVA ESPORTS</h1>
+                    </p>
+                    </a>
+                    
+                </div>
+
+                <div class="box">
+                    <a href="https://youtu.be/PQKaUfKEwBk">
+                        <img src="NAVI.jpg" alt="NAVI">
+                    
+                    <p>
+                        <h1 class="name">NATUS VINCERE</h1>
+                    </p>
+                    </a>
+                    
+                </div>
+ 
+                <div class="box">
+                    <a href="https://youtu.be/J25hSjCLx0Q">
+                        <img src="NGX.png" alt="">
+                    
+                    <p><h1 class="name">NIGMA GALAXY</h1></p>
+                    </a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+<div class="clr"></div>
+
+
+
+
+
+
+
+
+    <div class="pastdagi">
+        &copy;  KUDRATOV
+    </div>
+    
+
+    
+
+
+</body>
+</html>
