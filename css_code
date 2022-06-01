@@ -1,0 +1,206 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#header{
+    background-color: grey;
+    border-bottom: 5px solid orangered;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+#header h1{
+    padding: 15px 0;
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+#logo{
+    color: coral;
+}
+
+#menyu{
+    float: right;
+}
+#menyu li{
+    display: inline;
+}
+#menyu li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 23px 13px;
+    display: inline-block;
+}
+#menyu li a:hover{
+    color: tomato;
+}
+#banner{
+    position: relative;
+    background-image: url(https://media.istockphoto.com/photos/blurred-abstract-bokeh-background-picture-id1172073205?b=1&k=20&m=1172073205&s=170667a&w=0&h=XKC1I-YkKNHq7ebNt4wWnxb-jgqbWTmvC_xx_VDn4lc=);
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center -150px;
+    color: lime;
+    text-align: center;
+    font-family: sans-serif;
+}
+#banner h1{
+    font-size: 45px;
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
+
+
+#subscribe{
+    background-color: rgb(133, 115, 115);
+    color: white;
+    font-family: sans-serif;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    
+}
+*{
+
+    box-sizing: border-box;
+}
+#subscribe .left{
+    float: left;
+    padding: 15px 0;
+}
+#subscribe .right{
+    float: right;
+    padding-top: 10px;
+}
+#subscribe input{
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button{
+    padding: 7px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: red;
+}
+
+#kurslar{
+    padding: 60px 0;
+}
+.box{
+    float: left;
+    width: 33.3%;
+    text-align: center;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.box img { 
+    max-width: 100%;
+    width: 250px;
+    height: 200px; 
+}
+
+
+
+
+.name{
+    padding-top: 30px;
+    color: navy;
+}
+
+#place h2{
+    text-align: center;
+    color: turquoise;
+}
+
+#youtube h2{
+    color: gold;
+}
+
+
+
+
+
+
+.clr{
+    clear: both;
+}
+
+
+.pastdagi{
+    margin-top: 100px;
+    text-align: center;
+    background-color: coral;
+    color: white;
+    padding: 25px 0;
+}
+
+
+
+
+.main-content{
+    width: 65%;
+    float: left;
+}
+
+.sidebar{
+    width: 30%;
+    float: right;
+}
+
+#about-us{
+    margin: 40px 0;
+    font-family: sans-serif;
+}
+
+.bg-dark{
+    background-color: rgb(85, 69, 69);
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+
+#menu h1{
+    margin: 20px 0;
+    padding: 10px 0;
+    font-family: monospace;
+}
+
+
+.list h3{
+    padding: 10px 0;
+}
+.list{
+    float: left;
+    border: dashed grey 1px;
+    margin: 2px 0;
+    padding: 0 10px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+
+
+.labe{
+    display: block;
+    margin-bottom: 3px;
+}
+.inpu, textarea{
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.active{
+    color: khaki !important;
+}
