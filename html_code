@@ -1,0 +1,138 @@
+# my_video_website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MA'LUMOT</title>
+    <link rel="stylesheet" href="web-sahifa.css">
+</head>
+<body>
+
+    <div id="header">
+        <div class="container">
+            <h1> <span id="logo">TUIT</span> VIDEO.HUB </h1>
+            
+
+            <ul id="menyu">
+                <li>
+                    <a href="3 SAHIFALI WEB SAHIFA.html">MAIN</a>
+                </li>
+        <!--    <li>
+                    <a href="about.html">KEREMAS</a>
+                </li>
+        -->
+                <li>
+                    <a href="#" class="active">ABOUT</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+
+<!--    <div id="subscribe">
+        <div class="container">
+            <div class="left">
+                <h3>BIZGA A'ZO BO'LING</h3>
+            </div>
+
+            <div class="right">
+                <input type="email" placeholder="Emailni kiriting...">
+
+                <a href="#">  <button class="button"> A'ZO BO'LISH </button>
+                </a>
+            
+            </div>
+        </div>
+    </div>
+-->    
+
+
+    <div id="menu">
+        <div class="container">
+            <div class="main-content">
+                <h1> TOP-3 JAMOALAR YUTUQLARI </h1>
+                <div class="list">
+                    <a href="https://novaesports.com" target="_blank"><h3>NOVA ESPORTS</h3></a>
+                    <br>
+                <p>
+                    NOVA eSPPORTS tashkiloti ketma-ket ikkinchi yil
+                    ushbu xalqaro turnirda g'alaba qozonish orqali 
+                    $1.53 mln yutuq fondiga ega chiqishdi. Bundan tashqari 
+                    musobaqaning end yaxshi o'yinchi bo'lgan <b>ORDER</b>ga
+                    $10.000 taqdim etildi.
+                </p> 
+                <br>
+                <p>PRIZE: $1.63M</p> <br>
+                </div>
+    
+                <div class="list">
+                    <a href="https://navi.gg" target="_blank"><h3>NATUS VINCERE</h3></a>
+                    <br>
+                <p>
+                    O'tgan yilgi ushbu musobaqani 4-o'rin bilan yakunalagan
+                    NAVI bu yili ancha yaxshi harakat qilishdi va 
+                    oxirgi o'yinlarda comeback amalga oshirib 2-pog'onadan
+                    joy olishdi.
+                </p> <br>
+                <p>PRIZE: $630K</p> <br>
+                </div>
+    
+                <div class="list">
+                    <a href="https://nigmagalaxy.com" target="_blank">
+                        <h3>NIGMA GALAXY</h3>
+                    </a>
+                    <br>
+                <p>
+                    Sharqiy Osiyoning kuchli jamoalaridan biri bo'lgan -
+                    NGX dastlabki 2 kunda o'zlarini yaxshi ko'rsata olmadi.
+                    Ammo hal qiluvchi oxirgi kunda top jamoalarga munosib qarshilik korsatdi va haqli ravishda jamoa dunyoning eng kuchli uchinchisi bo'ldi.
+                </p> <br>
+                <p>PRIZE: $330K</p> <br>
+                </div>
+    
+            </div>
+            
+<!--            <div class="sidebar">
+                <div class="bg-dark">
+                    <h3>Ro'yxatni to'ldiring!</h3> <br/>
+                    <label class="labe">Ismingiz : </label>
+                    <input class="inpu" type="text" placeholder="Ismingizni kiriting">
+    
+                    <label class="labe">Email :</label>
+                    <input class="inpu" type="email" placeholder="Email manzil">
+    
+                    <label class="labe">Massage :</label>
+                    <textarea placeholder="Xabar qoldiring..."> </textarea>
+
+                    <a href="#">  <button class="button"> TAYYOR </button>
+                    </a>
+    
+                </div>
+            </div>
+-->            
+            
+        </div>
+    </div>
+
+
+
+
+
+
+  
+  
+  
+
+
+<div class="clr"></div>
+
+
+    <div class="pastdagi">
+        &copy;  KUDRATOV
+    </div>
+
+</body>
+
+</html>
+
